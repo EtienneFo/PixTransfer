@@ -1,5 +1,5 @@
 # PixTransfer
-![GitHub stars](https://img.shields.io/github/stars/EtienneFo/PixTransfer)
+![GitHub stars](https://img.shields.io/github/stars/EtienneFo/PixTransfer?style=social)
 ![GitHub license](https://img.shields.io/github/license/EtienneFo/PixTransfer)
 
 ## Description
